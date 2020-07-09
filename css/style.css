@@ -1,0 +1,294 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,700;1,100;1,400&display=swap");
+
+.wrapper {
+  background-image: url("../img/bg.jpg");
+}
+* {
+  color: #613e34;
+  font-family: "Roboto", sans-serif;
+  font-size: 18px;
+}
+button.dangkyngay {
+  background: transparent;
+  border: 2px solid;
+}
+.phan33 {
+  position: relative;
+}
+.phan3anh3 {
+  position: absolute;
+  top: -28px;
+  right: 55px;
+  height: 130px;
+}
+img.imgkhoi3 {
+  height: 30px;
+}
+
+p.text-left.text-khoi3 {
+  font-weight: bold;
+  color: black;
+  font-size: 20px;
+}
+.phan4 h2 {
+  font-family: "Dancing Script", cursive;
+}
+.p91 {
+  font-family: "Dancing Script", cursive;
+}
+.p999999 {
+  font-family: "Dancing Script", cursive;
+  font-size: 40px;
+}
+.phan4 {
+  background-color: white;
+}
+.khung2 {
+  top: -20px !important;
+  width: 100%;
+  left: 20px;
+}
+.khoicuoi {
+  padding-bottom: 20px;
+}
+h5.timkiem1 {
+  padding-top: 20px !important;
+}
+.danhsachp4 li {
+  font-size: 18px;
+  margin-top: 20px;
+}
+img.ap5 {
+  height: 70px;
+  margin-bottom: 20px;
+}
+.ap64 {
+  overflow: hidden;
+  top: -51px;
+  left: 15px;
+}
+.vongngoai {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.vongtrong {
+  text-align: center;
+  width: 80%;
+  border: 1px sloid;
+  border: 2px solid #0b8d45;
+  margin: auto;
+  padding: 50px;
+}
+
+img.anhp7ne {
+  width: 40%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+.ap9 {
+  background: #f3e7e5;
+}
+img.ap99 {
+  width: 80%;
+}
+
+.ap9 {
+  text-align: center;
+}
+
+.khoiul.bg-white {
+  height: 83%;
+  padding-bottom: 0;
+}
+@media screen and (max-width: 1200px) {
+  .khoiul.bg-white {
+    height: 70%;
+    padding-bottom: 0;
+  }
+}
+@media screen and (max-width: 1200px) {
+  .danhsachp4 li {
+    font-size: 16px;
+    margin-top: 20px;
+  }
+}
+.khoiul ul li {
+  font-weight: bold;
+}
+.phan10 h3 {
+  color: black;
+  font-weight: bold;
+}
+h5.d-inline {
+  font-weight: bold;
+  color: black;
+}
+.phancuoi10 {
+  color: #613e34;
+  font-family: "Dancing Script", cursive;
+}
+button.btnp10 {
+  background: #94776d;
+  color: white;
+  border: none;
+  border-radius: 20px;
+  padding: 10px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+.phan11 {
+  background: #623e34;
+}
+.ipp11 {
+  background: transparent;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-bottom: 1px solid #a58c83;
+  width: 100%;
+  color: #a58c83;
+  margin: 20px;
+}
+button.btnp11 {
+  border: none;
+  border-radius: 22px;
+  /* font-weight: bold; */
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 25px;
+  margin: 20px;
+}
+img.ap61,
+img.ap62 {
+  width: 90%;
+}
+h3 {
+  margin-top: 20px;
+}
+.anhdilen {
+  /* top: 50%; */
+  right: 0;
+}
+button.dangkyngay:hover {
+  opacity: 0.7;
+}
+#back-to-top {
+  cursor: pointer;
+}
+img.anhne {
+  width: 66px;
+}
+.dienthoaicuoi {
+  position: fixed;
+  left: 15px;
+  bottom: 18px;
+}
+img.img-fluid.img11111 {
+  width: 60px;
+}
+img.anhne {
+  width: 50%;
+}
+.anhdilen {
+  text-align: center;
+  width: 60px;
+  bottom: 94px;
+  right: 24px;
+}
+h2.text-center.text-white {
+  font-weight: bold;
+}
+.thanp10 ul li {
+  list-style-type: none;
+  /* font-size: 20px; */
+}
+.btnmenu {
+  cursor: pointer;
+}
+.bg-light {
+  background-color: transparent !important;
+}
+.navbar-light .navbar-toggler {
+  color: #613e34;
+  border: none !important;
+}
+button:hover {
+  opacity: 0.7;
+}
+button:focus {
+  outline: none !important;
+  /* outline: 5px auto -webkit-focus-ring-color; */
+}
+img.imgp10111 {
+  width: 100px;
+}
+
+.ipp11:focus {
+  outline: none;
+}
+.nav-link {
+  font-weight: bold;
+}
+h2.tieudechinh {
+  font-weight: bold;
+}
+.phan12 h3 {
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 18px;
+}
+.vongtrong h3 {
+  font-weight: bold;
+  font-size: 25px;
+}
+.phan5 h5 {
+  font-weight: bold;
+  font-size: 18px;
+}
+.phan4 h5 {
+  font-weight: bold;
+  font-size: 22px;
+  padding-top: 20px;
+}
+.phan4 h3 {
+  font-weight: bold;
+  font-size: 21px;
+}
+.phan3 h3 {
+  font-weight: bold;
+  font-size: 21px;
+}
+.phan4 h2 {
+  font-family: "Dancing Script", cursive;
+  font-weight: bold;
+}
+.navbar-toggler.menu11 {
+  position: fixed !important;
+  top: 20px;
+  right: 20px;
+}
+.navbarmenu {
+  position: fixed;
+  top: 50px;
+  right: 40px;
+  background: white !important;
+  z-index: 9999 !important;
+}
+.nav-item {
+  padding: 0 60px;
+  border-bottom: 1px solid #ccc;
+}
+.nav-item:hover {
+  background: #623f35 !important;
+}
+.nav-item:hover a {
+  color: white !important;
+}
+#iconclose span {
+  font-size: 18px;
+}
